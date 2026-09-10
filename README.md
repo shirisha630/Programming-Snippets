@@ -9,9 +9,6 @@
 - [Python Programs](#python-programs)
 - [Java Programs](#java-programs)
 - [JavaScript Programs](#javascript-programs)
-- [Program Summary](#program-summary)
-- [Task Checklist](#task-checklist)
-
 ---
 
 ## 🐍 Python Programs
@@ -29,24 +26,8 @@
 ## 🟨 JavaScript Programs
 
 1. [Hello World](JavaScript/helloWorld.js)
-2. [Factorial](JavaScript/factorial.js)
-3. [Fibonacci](JavaScript/fibonacci.js)
 
 ---
 
-## 📊 Program Summary
 
-| Language | Program 1 | Program 2 | Program 3 |
-|---|---|---|---|
-| Python | Hello World | Factorial | Fibonacci |
-| Java | Hello World | Factorial | Fibonacci |
-| JavaScript | Hello World | Factorial | Fibonacci |
 
----
-
-## 💡 Example
-
-The Python `print()` function is used to display output.
-
-```python
-print("Hello, World!")
