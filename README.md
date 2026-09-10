@@ -1,4 +1,4 @@
-# 💻 Programming Snippets
+#  Programming Snippets
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Java](https://img.shields.io/badge/Java-17-orange)
